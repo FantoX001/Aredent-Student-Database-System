@@ -1,11 +1,11 @@
 {
-  "name": "angular-student-management",
+  "name": "student-database-management-system",
   "version": "13.0.0",
   "author": {
-    "name": "Sangwin Gawande",
-    "url": "https://sangw.in",
-    "author": "Sangwin Gawande (https://sangw.in)",
-    "email": "imsangwin@gmail.com"
+    "name": "Shubha Pratim Biswas",
+    "url": "https://github.com/FantoX001",
+    "author": "FantoX001",
+    "email": "shubhapratimbiswas@gmail.com"
   },
   "scripts": {
     "ng": "ng",
