@@ -36,5 +36,5 @@
  ### Team Members:
  - [Shubha Pratim Biswas](https://github.com/FantoX001)
  - [Adityarup Datta]()
- - [Soumyodeep Majumdar]()
+ - [Soumyodeep Majumdar](https://github.com/soumyodeep25majumdar)
  
