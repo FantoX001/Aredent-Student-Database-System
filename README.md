@@ -11,6 +11,7 @@
 ## Requirements for installation:
 - Node.js
 - Angular js
+- Microsoft VS Code (For Compilation)
 
 ## How to run this project:
 ```
