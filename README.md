@@ -15,8 +15,8 @@
 ## How to run this project:
 ```
 
-- Download this prgram.
-- Goto Microsoft VS Code and open the folder from there.
+- Download this program.
+- Go to Microsoft VS Code and open the folder from there.
 - Open a new terminal in VS Code and change the terminal type to CMD.
 - Type "ng serve" to compile.
 - Then open the provided output link in your browser.
