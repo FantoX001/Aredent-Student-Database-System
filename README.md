@@ -33,7 +33,8 @@
 
 ```
 
- ### Team Members:
+ ## Team Members:
+ 
  - [Shubha Pratim Biswas](https://github.com/FantoX001)
  - [Adityarup Datta](https://github.com/addycracker)
  - [Soumyodeep Majumdar](https://github.com/soumyodeep25majumdar)
