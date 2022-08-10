@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/FantoX001">
-    <img src="https://i.ibb.co/sWJ3gqw/ardentlogo.png" width="400">
+    <img src="https://i.ibb.co/sWJ3gqw/ardentlogo.png" width="350">
     
 </p>
 
